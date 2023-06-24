@@ -1893,8 +1893,8 @@ a {
   }
 }
 .cid-tI1Ex1B08X {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tI1Ex1B08X .mbr-fallback-image.disabled {
@@ -1918,13 +1918,15 @@ a {
   text-align: center;
 }
 .cid-tI0ASgoyW1 {
-  padding-top: 6rem;
+  padding-top: 0rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-tI0ASgoyW1 img,
 .cid-tI0ASgoyW1 .item-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .cid-tI0ASgoyW1 .item:focus,
 .cid-tI0ASgoyW1 span:focus {

@@ -348,6 +348,9 @@
             },
             ".mbr-section-title DIV": {
               "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_name": "image2",

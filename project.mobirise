@@ -2693,6 +2693,12 @@
             },
             ".mbr-section-title, .mbr-section-subtitle, .mbr-text": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "text-align": "center"
             }
           },
           "_name": "video3",

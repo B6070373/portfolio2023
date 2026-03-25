@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "chayanit port",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1362,7 +1362,9 @@
     "page2.html": {
       "settings": {
         "title": "Work with company",
-        "order": "2"
+        "order": "2",
+        "meta_descr": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {

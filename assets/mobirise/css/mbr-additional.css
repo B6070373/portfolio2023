@@ -2249,56 +2249,6 @@ a {
 .cid-tI1Ex1B08X .mbr-text {
   text-align: left;
 }
-.cid-tI0ASgoyW1 {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tI0ASgoyW1 img,
-.cid-tI0ASgoyW1 .item-img {
-  width: 100%;
-}
-.cid-tI0ASgoyW1 .item:focus,
-.cid-tI0ASgoyW1 span:focus {
-  outline: none;
-}
-.cid-tI0ASgoyW1 .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-  position: relative;
-}
-.cid-tI0ASgoyW1 .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-tI0ASgoyW1 .item {
-  padding: 0;
-  margin: 0;
-}
-.cid-tI0ASgoyW1 .item-wrapper {
-  position: unset;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-tI0ASgoyW1 .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tI0ASgoyW1 .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-tI0ASgoyW1 .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-tI0ASgoyW1 .mbr-section-title {
-  color: #232323;
-}
 .cid-veLVRZCRwR {
   padding-top: 0rem;
   padding-bottom: 0rem;
